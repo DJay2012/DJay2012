@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm a passionate software engineer with a knack for building innovative solutions that make a real-world impact. From developing AIML models to predict crop trends and help farmers make better decisions, to crafting APIs and Flask-based web apps, I love solving challenges with clean, efficient code.  <br><br>I enjoy exploring data, creating models, and integrating APIs to bring dynamic features to life. Whether it's forecasting trends or delivering seamless user experiences, I'm always up for the challenge.  <br><br>Learning is my constant companion, and I'm driven to grow alongside the projects I work on. Let's build something awesome together! 🚀
+Hi there! 👋 I'm a passionate software engineer with a knack for building innovative solutions that make a real-world impact. From developing AIML models for predictions, to crafting APIs and Flask-based web apps, I love solving challenges with clean, efficient code.  <br><br>I enjoy exploring data, creating models, and integrating APIs to bring dynamic features to life. Whether it's forecasting trends or delivering seamless user experiences, I'm always up for the challenge.  <br><br>Learning is my constant companion, and I'm driven to grow alongside the projects I work on. Let's build something awesome together! 🚀
 
 
 ## 🌐 Socials:
