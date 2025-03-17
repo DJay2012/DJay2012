@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there! 👋 I'm a passionate software engineer with a knack for building innovative solutions that make a real-world impact. From developing AIML models for predictions, to crafting APIs and Flask-based web apps, I love solving challenges with clean, efficient code.  <br><br>I enjoy exploring data, creating models, and integrating APIs to bring dynamic features to life. Whether it's forecasting trends or delivering seamless user experiences, I'm always up for the challenge.  <br><br>Learning is my constant companion, and I'm driven to grow alongside the projects I work on. Let's build something awesome together! 🚀
+Hi there! 👋 I'm a passionate Python Backend Developer with a strong foundation in building robust and scalable applications. With hands-on experience in developing APIs, backend logic, and data processing pipelines, I thrive on solving challenges with clean, efficient code.
+I enjoy working with data, creating innovative solutions, and integrating APIs to deliver seamless performance and reliability. Whether it's optimizing server-side processes or building dynamic web applications, I'm always up for the challenge.
+Learning and growing are at the heart of my journey, and I'm driven to make an impact through every project I work on. Let's build something awesome together! 🚀
 
 
 ## 🌐 Socials:
