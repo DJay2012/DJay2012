@@ -103,7 +103,10 @@ def build() -> str:
     p.append(
         _line(
             idx, PAD, y, [(ACCENT, escape(CARD_TITLE))],
-            second=(PAD + (len(CARD_TITLE) + 3) * CHAR_W, DIM, escape(NAME)),
+            second=(
+                (PAD + (len(CARD_TITLE) + 3) * CHAR_W, DIM, escape(NAME))
+                if NAME else None
+            ),
         )
     )
     idx += 1

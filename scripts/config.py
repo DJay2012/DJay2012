@@ -5,8 +5,9 @@ USERNAME = "DJay2012"
 
 # ------------------------------------------------------------- info card
 # Keys are the left column, values the right. Long values wrap automatically.
-NAME = "Dhananjay Pathak"
-CARD_TITLE = f"dhananjay@{USERNAME}"
+HANDLE = "DJay"            # used everywhere; no real name anywhere in the art
+NAME = ""                  # leave empty to show no name beside the title
+CARD_TITLE = f"{HANDLE}@github"
 
 CARD_ROWS = [
     # The badge row in the README covers the stack in detail, so the card
@@ -19,6 +20,11 @@ CARD_ROWS = [
     ("Repos",    "13 public · Pull Shark · Quickdraw · Pair Extraordinaire"),
     ("Links",    "linkedin.com/in/djay4047"),
 ]
+
+# ------------------------------------------------------------- trophy panel
+# Static facts the contribution scrape can't see. Update when they change.
+PUBLIC_REPOS = 13
+ACHIEVEMENTS = ["Pull Shark", "Quickdraw", "Pair Extraordinaire", "YOLO"]
 
 # --------------------------------------------------------------- palette
 FG = "#c9d1d9"          # primary text

@@ -1,18 +1,24 @@
 <div align="center">
 
-<h3><code>dhananjay@DJay2012 ~ $ ./contributions.sh</code></h3>
+<h3><code>djay@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" alt="Contribution heatmap" />
 
 <br><br>
 
-<h3><code>dhananjay@DJay2012 ~ $ neofetch</code></h3>
+<h3><code>djay@github ~ $ neofetch</code></h3>
 
 <img src="./info-card.svg" alt="Info card" />
 
 <br><br>
 
-<h3><code>dhananjay@DJay2012 ~ $ cat about.md</code></h3>
+<h3><code>djay@github ~ $ ./trophies.sh</code></h3>
+
+<img src="./trophies.svg" alt="Trophies" />
+
+<br><br>
+
+<h3><code>djay@github ~ $ cat about.md</code></h3>
 
 </div>
 
@@ -26,7 +32,7 @@ together.
 
 <br>
 
-<h3><code>dhananjay@DJay2012 ~ $ ls stack/</code></h3>
+<h3><code>djay@github ~ $ ls stack/</code></h3>
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -60,18 +66,12 @@ together.
 
 <br><br>
 
-<h3><code>dhananjay@DJay2012 ~ $ ./trophies.sh</code></h3>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DJay2012&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/djay4047/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-<sub><code>heatmap and card generated from my own data · refreshed daily by GitHub Actions</code></sub>
+<sub><code>all art generated from my own data · refreshed daily by GitHub Actions</code></sub>
 
 </div>
