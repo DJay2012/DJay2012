@@ -9,16 +9,14 @@ NAME = "Dhananjay Pathak"
 CARD_TITLE = f"dhananjay@{USERNAME}"
 
 CARD_ROWS = [
+    # The badge row in the README covers the stack in detail, so the card
+    # keeps one condensed Stack line instead of four.
     ("Role",     "Python backend developer"),
     ("Location", "Mumbai, India · working from home"),
     ("Focus",    "APIs, backend logic, data processing pipelines"),
-    ("Backend",  "Python · Django · Django REST Framework"),
-    ("Frontend", "JavaScript · HTML5 · CSS"),
-    ("Data",     "MySQL · MongoDB · Neo4j · SQLite"),
-    ("ML",       "NumPy · pandas · scikit-learn · Keras · Matplotlib"),
-    ("Ops",      "Nginx · Gunicorn · Jenkins · Git · GitHub Actions"),
+    ("Stack",    "Python · Django · DRF · MySQL · MongoDB · Neo4j"),
     ("Projects", "DJBot (NLP) · Ad sales prediction · UI components"),
-    ("Badges",   "Pull Shark · Quickdraw · Pair Extraordinaire · YOLO"),
+    ("Repos",    "13 public · Pull Shark · Quickdraw · Pair Extraordinaire"),
     ("Links",    "linkedin.com/in/djay4047"),
 ]
 
