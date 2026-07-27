@@ -1,49 +1,37 @@
-# 💫 About Me:
-Hi there! 👋 I'm a passionate Python Backend Developer with a strong foundation in building robust and scalable applications. With hands-on experience in developing APIs, backend logic, and data processing pipelines, I thrive on solving challenges with clean, efficient code.
-I enjoy working with data, creating innovative solutions, and integrating APIs to deliver seamless performance and reliability. Whether it's optimizing server-side processes or building dynamic web applications, I'm always up for the challenge.
-Learning and growing are at the heart of my journey, and I'm driven to make an impact through every project I work on. Let's build something awesome together! 🚀
+<div align="center">
 
+<h3><code>dhananjay@DJay2012 ~ $ ./contributions.sh</code></h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/djay4047/) 
+<img src="./contrib-heatmap.svg" alt="Contribution heatmap" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-thebadge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DJay2012&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DJay2012&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DJay2012&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3><code>dhananjay@DJay2012 ~ $ neofetch</code></h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DJay2012&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="./info-card.svg" alt="Info card" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br><br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DJay2012&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3><code>dhananjay@DJay2012 ~ $ cat about.md</code></h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=DJay2012&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Python backend developer based in Mumbai, building robust and scalable
+applications — APIs, backend logic, and data processing pipelines. I enjoy
+working with data, integrating third-party services, and optimizing server-side
+performance. Always learning, always shipping. Let's build something awesome
+together.
+
+<div align="center">
+
+<br>
+
+<a href="https://www.linkedin.com/in/djay4047/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+<sub><code>art generated from my own data · refreshed daily by GitHub Actions · no third-party stats services</code></sub>
+
+</div>
